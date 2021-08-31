@@ -27,15 +27,15 @@ Users should be able to:
 
 ##Mobile
 
-![](./images/screenshot/desktop-solution.PNG)
+![](./solutions/mobile-solution.PNG)
 
 ##Desktop
 
-![](./images/screenshot/desktop-solution.PNG)
+![](./solutions/desktop-solution.PNG)
 
 ### Links
 
-- Live Site URL: [https://domhem.github.io/FAQ-Accordion_Card/](https://domhem.github.io/FAQ-Accordion_Card/)
+- Live Site URL: [https://domhem.github.io/FAQ-Accordion_Card/](https://domhem.github.io/FAQ-Accordion-Card/)
 
 ## My process
 
